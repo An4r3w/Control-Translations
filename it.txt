@@ -11,24 +11,24 @@ profile: Profilo Utente
 public_beta: Beta pubblica
 
 server_overview: Panoramica Server
-online_players: Players online
+online_players: Giocatori Online
 online_staff: Staff online
-online_admins: Admins Online
+online_admins: Amministratori Online
 new_players_today: Nuovi players oggi
 welcome: Benvenuto!
 server_off: Server offline
-have_a_nice_day: Buona giornata
-max_players: Players Massimi
-current_month: Mese corrente
+have_a_nice_day: Buona giornata!
+max_players: Giocatori Massimi
+current_month: Mese Attuale
 past_month: Mese passato
-active_players: Players attivi
+active_players: Giocatori Attivi
 new: Nuovo
 month: mese
 
 restart_round: Riavvia Round
-end_round: Finisci Round
+end_round: Termina Round
 restart_server: Riavvia Server
-shutdown: Spegnimento
+shutdown: Spegni
 console_disabled: Console disabilitata
 
 available_plugins: Plugins disponibili
@@ -38,11 +38,11 @@ download_latest: Scarica l'ultima versione
 
 configure: Configura
 save: Salva
-reset: Formatta
+reset: Reimposta
 
-server_secrets: Segreti Server
+server_secrets: Info Private Server
 copy_key: Copia Chiave
-reset_key: Formatta Chiave
+reset_key: Reimposta Chiave
 get_another_key: Prendi un'altra chiave
 
 user: Utente
