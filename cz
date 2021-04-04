@@ -1,0 +1,49 @@
+public_beta_disabled_msg: Deaktivováno kvůli veřejné betě
+overview: Přehled
+quick_actions: Rychlé akce
+
+dashboard: Dashboard
+control_panel: Ovládací Panel
+plugin_list: Seznam pluginů
+logs: Záznamy
+keys: Klíče
+profile: Uživatelský profil
+public_beta: Veřejná beta
+
+server_overview: Přehled serveru
+online_players: Online Hráčů
+online_staff: Online Zaměstnanců
+online_admins: Online Adminů
+new_players_today: Dnešní nový hráči
+welcome: Vítejte!
+server_off: Server vypnut
+have_a_nice_day: Měj hezký den!
+max_players: Maximalní počet hráčů
+current_month: Aktuální měsíc
+past_month: Minulý měsíc
+active_players: Aktivní hráči
+new: Nové	
+month: Měsíc
+
+restart_round: Restartovat kolo
+end_round: Ukončit kolo
+restart_server: Restartovat server
+shutdown: Vypnout
+console_disabled: Konzole deaktivována
+
+available_plugins: Dostupné pluginy
+plugin: Plugin
+description: Popis
+download_latest: Stáhnout poslední verzi
+
+configure: Konfigurovat
+save: Uložit
+reset: Resetovat
+
+server_secrets: Serverové tajnosti
+copy_key: Zkopírovat klíč
+reset_key: Resetovat klíč
+get_another_key: Získat další klíč!
+
+user: Uživatel
+delete_acc: Odstranit účet
